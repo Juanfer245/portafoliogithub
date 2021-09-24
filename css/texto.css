@@ -1,0 +1,182 @@
+body{
+    min-height: 100vh;
+    margin: 0;
+    background: #DCDCDC;
+    z-index: -1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.encabezado{
+    position: relative;
+    bottom: 100px;
+    left: -290px;
+    width: 250px;
+    height: 420px;
+    padding: 20px;
+    background: #eeeeee;
+    border-radius: 14px;
+    text-align:left;
+}
+
+.encabezado img{
+    width: 120px;
+}
+
+.progress{
+    position: relative;
+    bottom: 210px;
+    left: -180px;
+    width: 250px;
+    height: 200px;
+    padding: 20px;
+    background: #eeeeee;
+    border-radius: 14px;
+    text-align:right;
+}
+
+.progress2{
+    position: relative;
+    left: -360px;
+    bottom: 180px;
+}
+
+.progress3{
+    position: absolute;
+    left: 610px;
+    bottom: 510px;
+}
+
+.ramas{
+    position: absolute;
+    left: 510px;
+    bottom: 590px;
+}
+
+.ramas1{
+    position: absolute;
+    left: 520px;
+    bottom: 550px;
+}
+
+.ramas2{
+    position: absolute;
+    left: 520px;
+    bottom: 510px;
+}
+
+
+.titulo{
+    position: absolute;
+    bottom: 340px;
+    left: 500px;
+    width: 950px;
+    height: 70px;
+    padding: 10px;
+    background: #eeeeee;
+    border-radius: 14px;
+    text-align:left;
+}
+
+
+.proyecto{
+    position: absolute;
+    bottom: 100px;
+    left: 500px;
+    width: 950px;
+    height: 200px;
+    padding: 10px;
+    background: #eeeeee;
+    border-radius: 14px;
+    text-align:end;
+}
+
+.paisaje{
+    position: absolute;
+    width: 200px;
+    height: 175px;
+    bottom: 125px;
+    left: 550px;
+}
+
+.proyecto1{
+    position: absolute;
+    bottom: -200px;
+    left: 500px;
+    width: 950px;
+    height: 200px;
+    padding: 10px;
+    background: #eeeeee;
+    border-radius: 14px;
+    text-align:end;
+}
+
+.paisaje1{
+    position: absolute;
+    width: 200px;
+    height: 175px;
+    bottom: 20px;
+    left: 50px;
+}
+
+.proyecto2{
+    position: absolute;
+    bottom: -500px;
+    left: 500px;
+    width: 950px;
+    height: 200px;
+    padding: 10px;
+    background: #eeeeee;
+    border-radius: 14px;
+    text-align:end;
+}
+
+.paisaje2{
+    position: absolute;
+    width: 200px;
+    height: 175px;
+    bottom: 20px;
+    left: 50px;
+}
+
+.proyecto3{
+    position: absolute;
+    bottom: -620px;
+    left: 100px;
+    width: 300px;
+    height: 790px;
+    padding: 10px;
+    background: #eeeeee;
+    border-radius: 14px;
+    text-align:left;
+}
+
+.paisaje3{
+    position: absolute;
+    width: 280px;
+    height: 185px;
+    bottom: 400px;
+    left: 20px;
+    border-radius: 15px;
+}
+
+.proyecto4{
+    position: absolute;
+    bottom: -930px;
+    left: 100px;
+    width: 300px;
+    height: 700px;
+    padding: 10px;
+    text-align:left;
+}
+
+.paisaje4{
+    position: absolute;
+    width: 280px;
+    height: 185px;
+    bottom: 360px;
+    left: 20px;
+    border-radius: 15px;
+}
